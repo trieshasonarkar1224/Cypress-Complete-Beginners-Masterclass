@@ -10,7 +10,7 @@ Date:-28/09/2024
 Enlisted below are the things I learnt today. 👇
 <br>
 
-✮
+
 
 ✮[1]What is Cypress
 <br>
@@ -33,6 +33,9 @@ Enlisted below are the things I learnt today. 👇
 ✮[7]Cypress Project Setup
 <br>
 
+
+
+
 ✮[8]Cypress folder structure
 <br>
 
@@ -40,3 +43,13 @@ Enlisted below are the things I learnt today. 👇
 <br>
 
 ✮[10]How to access elements
+
+
+![Screenshot 2024-09-28 221548](https://github.com/user-attachments/assets/e1ed41ec-d273-43b7-aec8-341e40ce19bd)
+
+
+![Screenshot 2024-09-28 221610](https://github.com/user-attachments/assets/ef3b5e3f-b49a-45a5-af90-5621f3ec35c0)
+
+
+![Screenshot 2024-09-28 221631](https://github.com/user-attachments/assets/954eb8cb-b80c-4d5b-b41f-11eb460ba942)
+
